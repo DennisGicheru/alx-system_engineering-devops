@@ -1,2 +1,5 @@
+#!/bin/bash
+
 # alx-system_engineering-devops
-Shell basics for alx-system-engineering
+
+Read this file
