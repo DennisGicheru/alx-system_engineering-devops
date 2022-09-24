@@ -1,4 +1,2 @@
 #!/bin/bash
-
-
-Read this file
+Introduction to shell permissions and how to use the shell
