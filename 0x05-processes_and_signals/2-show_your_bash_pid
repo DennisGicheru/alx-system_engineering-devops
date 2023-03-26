@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# extends the previous exercise command	and displays a line containing the bash word,
+# this will easily allow you to get PID of your bash process
+
+./1-list_your_processes | grep "bash"
