@@ -2,4 +2,4 @@
 #Bash script that displays the PID, along with process name and processes which contain the name "Bash"
 #using ps is not allowed
 
-pgrep -1 bash
+pgrep -l bash

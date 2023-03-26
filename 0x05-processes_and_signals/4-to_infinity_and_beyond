@@ -1,4 +1,4 @@
-#!/ur/bin/env bash
+#!/usr/bin/env bash
 #Displays "To infinity and beyond" indefinitely
 
 while true; do
