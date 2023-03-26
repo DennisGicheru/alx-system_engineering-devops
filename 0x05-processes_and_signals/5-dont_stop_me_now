@@ -5,7 +5,4 @@
 id=$(pgrep "bash ./4-to_infinity_and_beyond" -f)
 
 # Terminate the infinite process
-if [ -n "$id" ]
-then
-	kill -l5 "$id"
-fi
+kill "$id"
